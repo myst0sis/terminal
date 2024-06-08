@@ -97,6 +97,9 @@ function commander(cmd) {
     case "characters":
       loopLines(characters, "color2 margin", 80);
       break;
+    case "smile":
+      loopLines(smile, "color2 margin", 80);
+      break;
     case "clear":
       setTimeout(function () {
         terminal.innerHTML = '<a id="before"></a>';
@@ -105,7 +108,7 @@ function commander(cmd) {
       break;
     // socials
     case "youtube":
-      addLine("Opening YouTube...", "color2", 80);
+      addLine("Opening YouTube...", "color2", 0);
       newTab(youtube);
       break;
     case "twitter":
@@ -117,6 +120,25 @@ function commander(cmd) {
       newTab(twitch);
       break;
     //characters
+    case "persona":
+      loopLines(persona, "color2 margin", 80);
+      break;
+    case "hiraeth":
+      loopLines(hiraeth, "color2 margin", 80);
+      break;
+    case "mirage":
+      loopLines(mirage, "color2 margin", 80);
+      break;
+    case "venus":
+      loopLines(venus, "color2 margin", 80);
+      break;
+    case "tortuguita":
+      loopLines(tortuguita, "color2 margin", 80);
+      break;
+    case "tortuguita2":
+      loopLines(tortuguita2, "color2 margin", 80);
+      break;
+
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
       break;
