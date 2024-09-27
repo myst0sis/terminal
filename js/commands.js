@@ -9,6 +9,7 @@ banner = [
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
 
+//main commands
 whois = [
   "<br>",
   "Hi, I'm Myst!",
@@ -20,7 +21,7 @@ whois = [
 
 whoami = [
   "<br>",
-  "I don't know. Who are you? Why are you here? Get out.",
+  "I don't know. Who are you? Why are you here?",
   "<br>"
 ];
 
@@ -35,10 +36,8 @@ social = [
 
 projects = [
   "<br>",
-  "x1 TSMP Animatic                    10%",
-  "x1 Character reference sheet        85%",
-  "x1 Persona reference sheet          62%",
-  "x1 Minecraft model                  37%",
+  "x1 arg",
+  "x1 tsmp update",
   "<br>"
 ];
 
@@ -66,7 +65,14 @@ help = [
   "<br>",
 ];
 
+//arg
+smile = [
+  '<br>',
+  'Decipher.',
+  '<br>'
+]
 
+//characters
 persona = [
   "<br>",
   '<a href="https://characterskrunkles.carrd.co/#persona">Myst</a> | 19 y/o | any pronouns',
@@ -104,7 +110,7 @@ tortuguita = [
   "<br>",
   '<a href="https://characterskrunkles.carrd.co/#myst-tsmp">Myst</a> | 18 y/o | any pronouns',
   '<br>',
-  'Character from a SMP that is ending - TSMP',
+  'Character from season one of TSMP',
   'poor dude really got snatched up at world spawn in a unicorn van and given a child without any warning',
   'no wonder hes traumatised',
   "<br>"
@@ -114,5 +120,6 @@ tortuguita2 = [
   '<a href="https://characterskrunkles.carrd.co/">Myst</a> |  y/o |  /  ',
   '<br>',
   'Character from season two of TSMP',
+  'lmao imagine loser',
   "<br>"
 ];
