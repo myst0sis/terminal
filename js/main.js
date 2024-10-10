@@ -126,11 +126,11 @@ function commander(cmd) {
     case "venus":
       loopLines(venus, "color2 margin", 80);
       break;
-    case "tortuguita":
-      loopLines(tortuguita, "color2 margin", 80);
+    case "tsmp":
+      loopLines(tsmp, "color2 margin", 80);
       break;
-    case "tortuguita2":
-      loopLines(tortuguita2, "color2 margin", 80);
+    case "tsmp2":
+      loopLines(tsmp2, "color2 margin", 80);
       break;
 
     default:

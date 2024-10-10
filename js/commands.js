@@ -37,7 +37,7 @@ social = [
 projects = [
   "<br>",
   "x1 arg",
-  "x1 tsmp update",
+  "x1 ",
   "<br>"
 ];
 
@@ -47,8 +47,8 @@ characters = [
   '<span class="command">Hiraeth</span>           Reo',
   '<span class="command">Mirage</span>            Reo (Origins)',
   '<span class="command">Venus</span>             Myst (Origins)',
-  '<span class="command">Tortuguita</span>        Myst',
-  '<span class="command">Tortuguita2</span>       Myst (Season 2)',
+  '<span class="command">TSMP</span>              Myst',
+  '<span class="command">TSMP2</span>             Myst (Season 2)',
   "<br>"
 ]
 
@@ -68,7 +68,7 @@ help = [
 //arg
 smile = [
   '<br>',
-  'Decipher.',
+  'The next part of the arg isnt here lmao look somewhere else',
   '<br>'
 ]
 
@@ -106,7 +106,7 @@ venus = [
   'Origins server (Phantom Origin)',
   "<br>"
 ];
-tortuguita = [
+tsmp = [
   "<br>",
   '<a href="https://characterskrunkles.carrd.co/#myst-tsmp">Myst</a> | 18 y/o | any pronouns',
   '<br>',
@@ -115,11 +115,11 @@ tortuguita = [
   'no wonder hes traumatised',
   "<br>"
 ];
-tortuguita2 = [
+tsmp2 = [
   "<br>",
-  '<a href="https://characterskrunkles.carrd.co/">Myst</a> |  y/o |  /  ',
+  '<a href="https://characterskrunkles.carrd.co/#myst-tsmptaketwo">Myst</a> | 19 y/o | they/she/it ',
   '<br>',
   'Character from season two of TSMP',
-  'lmao imagine loser',
+  'old age getting to em their joints are creaky',
   "<br>"
 ];
